@@ -1,6 +1,7 @@
 {
   "name": "ElectronTwitterSample",
   "version": "1.0.0",
+  "main": "app/javascripts/main/main.js",
   "description": "Electronを使ったサンプルアプリケーション",
   "author": "Hiroyuki Tanaka <h.tanaka.0325@gmail.com>",
   "dependencies": {
