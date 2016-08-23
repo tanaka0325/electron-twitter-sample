@@ -1,0 +1,13 @@
+{
+  "name": "ElectronTwitterSample",
+  "version": "1.0.0",
+  "description": "Electronを使ったサンプルアプリケーション",
+  "author": "Hiroyuki Tanaka <h.tanaka.0325@gmail.com>",
+  "dependencies": {
+    "babel-plugin-transform-react-jsx": "6.8.0",
+    "babel-register": "6.9.0",
+    "react": "15.1.0",
+    "react-dom": "15.1.0",
+    "twit": "2.2.4"
+  }
+}
