@@ -75,3 +75,6 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# my custom ignore setting
+src/env.json

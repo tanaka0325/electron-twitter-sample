@@ -1,8 +1,9 @@
 const Twit = require('twit')
+const env = require('../../../../env.json')
 
 module.exports = new Twit({
-  consumer_key: 'XXXXX',
-  consumer_secret: 'XXXXX',
-  access_token: 'XXXXX',
-  access_token_secret: 'XXXXX',
+  consumer_key: env.consumer_key,
+  consumer_secret: env.consumer_secret,
+  access_token: env.access_token,
+  access_token_secret: env.access_token_secret,
 })
